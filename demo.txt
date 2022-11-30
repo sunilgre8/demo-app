@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>My page using git</title>
+<body>
+My page using git
+</body>
+</head>
+</html>
